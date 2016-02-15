@@ -1,0 +1,20 @@
+{
+  "name": "roar-sass-reset",
+  "version": "0.0.1",
+  "homepage": "https://github.com/davidvictor/sass-reset",
+  "authors": [
+    "David Victor <david@techbro.biz>"
+  ],
+  "description": "My sass micro reset",
+  "main": "dist/sass/sass-reset.scss",
+  "keywords": [
+    "sass",
+    "yolo",
+    "roar"
+  ],
+  "license": "MIT",
+  "ignore": [],
+  "dependencies": {
+
+  }
+}
